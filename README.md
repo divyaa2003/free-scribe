@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This application is designed to seamlessly transcribe and translate audio and video content into multiple languages. Built with React for a smooth, responsive user experience, it allows users to upload audio files and receive real-time or batch-mode text transcriptions. Additionally, it offers instant translation of transcriptions into various languages, making it ideal for global accessibility.
